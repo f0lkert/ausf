@@ -7,7 +7,7 @@ import (
 
 	"github.com/f0lkert/ausf/internal/logger"
 	"github.com/free5gc/openapi/models"
-	"github.com/free5gc/openapi/oauth"
+	"github.com/f0lkert/free5gc-fixup/oauth"
 )
 
 type AUSFContext struct {
