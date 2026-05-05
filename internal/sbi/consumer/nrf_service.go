@@ -9,8 +9,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	ausf_context "github.com/free5gc/ausf/internal/context"
-	"github.com/free5gc/ausf/internal/logger"
+	ausf_context "github.com/f0lkert/ausf/internal/context"
+	"github.com/f0lkert/ausf/internal/logger"
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/models"
 	Nnrf_NFDiscovery "github.com/free5gc/openapi/nrf/NFDiscovery"

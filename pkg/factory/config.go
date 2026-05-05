@@ -14,7 +14,7 @@ import (
 	"github.com/asaskevich/govalidator"
 	"github.com/google/uuid"
 
-	"github.com/free5gc/ausf/internal/logger"
+	"github.com/f0lkert/ausf/internal/logger"
 	"github.com/free5gc/openapi/models"
 )
 

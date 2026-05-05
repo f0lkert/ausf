@@ -1,7 +1,7 @@
 package consumer
 
 import (
-	"github.com/free5gc/ausf/pkg/app"
+	"github.com/f0lkert/ausf/pkg/app"
 	Nnrf_NFDiscovery "github.com/free5gc/openapi/nrf/NFDiscovery"
 	Nnrf_NFManagement "github.com/free5gc/openapi/nrf/NFManagement"
 	Nudm_UEAuthentication "github.com/free5gc/openapi/udm/UEAuthentication"

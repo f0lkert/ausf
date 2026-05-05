@@ -1,4 +1,4 @@
-module github.com/free5gc/ausf
+module github.com/f0lkert/ausf
 
 go 1.25.5
 

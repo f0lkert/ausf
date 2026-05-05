@@ -18,9 +18,9 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/free5gc/ausf/internal/logger"
-	"github.com/free5gc/ausf/pkg/factory"
-	"github.com/free5gc/ausf/pkg/service"
+	"github.com/f0lkert/ausf/internal/logger"
+	"github.com/f0lkert/ausf/pkg/factory"
+	"github.com/f0lkert/ausf/pkg/service"
 	logger_util "github.com/free5gc/util/logger"
 	"github.com/free5gc/util/version"
 )

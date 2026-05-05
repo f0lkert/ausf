@@ -5,8 +5,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/free5gc/ausf/internal/logger"
-	"github.com/free5gc/ausf/pkg/factory"
+	"github.com/f0lkert/ausf/internal/logger"
+	"github.com/f0lkert/ausf/pkg/factory"
 	"github.com/free5gc/openapi/models"
 )
 

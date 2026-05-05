@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"sync"
 
-	"github.com/free5gc/ausf/internal/logger"
+	"github.com/f0lkert/ausf/internal/logger"
 	"github.com/free5gc/openapi/models"
 	"github.com/free5gc/openapi/oauth"
 )

@@ -5,8 +5,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	ausf_context "github.com/free5gc/ausf/internal/context"
-	"github.com/free5gc/ausf/internal/logger"
+	ausf_context "github.com/f0lkert/ausf/internal/context"
+	"github.com/f0lkert/ausf/internal/logger"
 	"github.com/free5gc/openapi/models"
 )
 

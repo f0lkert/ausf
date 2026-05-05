@@ -20,9 +20,9 @@ import (
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
 
-	ausf_context "github.com/free5gc/ausf/internal/context"
-	"github.com/free5gc/ausf/internal/logger"
-	"github.com/free5gc/ausf/pkg/factory"
+	ausf_context "github.com/f0lkert/ausf/internal/context"
+	"github.com/f0lkert/ausf/internal/logger"
+	"github.com/f0lkert/ausf/pkg/factory"
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/models"
 	Nudm_UEAuthentication "github.com/free5gc/openapi/udm/UEAuthentication"

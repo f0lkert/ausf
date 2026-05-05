@@ -1,8 +1,8 @@
 package processor
 
 import (
-	"github.com/free5gc/ausf/internal/sbi/consumer"
-	"github.com/free5gc/ausf/pkg/app"
+	"github.com/f0lkert/ausf/internal/sbi/consumer"
+	"github.com/f0lkert/ausf/pkg/app"
 )
 
 type ProcessorAusf interface {
